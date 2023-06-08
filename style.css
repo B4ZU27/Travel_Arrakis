@@ -84,3 +84,24 @@ ul {
     padding-top: 10px; 
     font-size: medium;
   }
+
+  
+  .image {
+    max-width: 70%;
+    height: auto;
+    padding: 40px;
+    border-radius: 10%;
+    
+  }
+  
+  #Fremen-home{
+    background-color: 271E2F;
+    border: 5px solid rgb(44, 36, 55);
+    width: auto;
+    height: auto;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 3%;
+    padding: 3%;
+  }
